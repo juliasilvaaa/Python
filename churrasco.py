@@ -15,10 +15,10 @@ total_bebidas_alcoolicas = adultos * 2.5
 total_bebidas = criancas * 1.5
 
 print("\n ==== Para seu churrasco será necessario: ====")
-print(f"-- Carne: {total_carne}")
-print(f"-- Acompanhamentos: {total_acompanhamentos}")
-print(f"-- Bebidas alcoolicas: {total_bebidas_alcoolicas}")
-print(f"-- Refrigerantes ou Sucos: {total_bebidas} Litros")
+print(f"-- Carne: {total_carne/1000} kg")
+print(f"-- Acompanhamentos: {total_acompanhamentos/1000} kg") # Conversão para kg
+print(f"-- Bebidas alcoolicas: {total_bebidas_alcoolicas} L")
+print(f"-- Refrigerantes ou Sucos: {total_bebidas} L")
 
 
 # Com os dados em maõs, o sistema calcula

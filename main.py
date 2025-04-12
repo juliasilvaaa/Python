@@ -8,30 +8,30 @@
 # # F5 =  Debugger (mais lento)
 # # CRTL + F5 = Rodar sem o debugger
 
-# print("Hello World")
+print("Hello World")
 
 # # \n Para quebrar linha
-# print("Meu nome é Júlia\nTenho 18 anos")
+print("Meu nome é Júlia\nTenho 18 anos")
 
 # # Concatenação = Soma/Juntar Texto
-# print("Valor do Produto:" + "R$: 58,99")
+print("Valor do Produto:" + "R$: 58,99")
 
 # # Multiplicar a quantidade de vezes do print
-# print("Multiplicando linhas\n" * 5)
+print("Multiplicando linhas\n" * 5)
 
 # # INPUT - Faz pergunta e espera uma resposta
-# input("Qual seu nome?")
+input("Qual seu nome?")
 
 # # Criar variavel para guardar - Número
-# valor = "Thau"
+valor = "Thau"
 
 # # Concatenação = Soma/Juntar Texto
-# print("Nome: " + valor)
+print("Nome: " + valor)
 
 
 # # Criando input e retornando no print a resposta do input
-# cidade = input("Qual cidade voce mora?")
-# print("A cidade que você mora é: " + cidade)
+cidade = input("Qual cidade voce mora?")
+print("A cidade que você mora é: " + cidade)
 
 # # --------------------------------------------------------------------
 # # ----------------- Regras para nome de variavel --------------------
@@ -40,7 +40,7 @@
 # # Não pode usar nome reservados (print,input do proprio python )
 # # Nomes que precisam de espaço usar _ (snake case)
 
-# nome_usuario = input("Qual seu nome?")
+nome_usuario = input("Qual seu nome?")
 
 
 # ============ Tipos de dados e operações matemáticas  ==============
@@ -75,14 +75,3 @@ temperatura = 26.5
 
 
 # --- Boolean - Verdadeiro ou falso
-
-
-
-
-
-
-
-
-
-
-
