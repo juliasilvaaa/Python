@@ -1,0 +1,55 @@
+('C:\\Users\\victor.alunos\\Desktop\\Julia Pereira '
+ 'Silva\\build\\senhas\\senhas.pkg',
+ {'BINARY': True,
+  'DATA': True,
+  'EXECUTABLE': True,
+  'EXTENSION': True,
+  'PYMODULE': True,
+  'PYSOURCE': True,
+  'PYZ': False,
+  'SPLASH': True,
+  'SYMLINK': False},
+ [('pyi-contents-directory _internal', '', 'OPTION'),
+  ('PYZ-00.pyz',
+   'C:\\Users\\victor.alunos\\Desktop\\Julia Pereira '
+   'Silva\\build\\senhas\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'C:\\Users\\victor.alunos\\Desktop\\Julia Pereira '
+   'Silva\\build\\senhas\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'C:\\Users\\victor.alunos\\Desktop\\Julia Pereira '
+   'Silva\\build\\senhas\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'C:\\Users\\victor.alunos\\Desktop\\Julia Pereira '
+   'Silva\\build\\senhas\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'C:\\Users\\victor.alunos\\Desktop\\Julia Pereira '
+   'Silva\\build\\senhas\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'C:\\Users\\victor.alunos\\Desktop\\Julia Pereira '
+   'Silva\\build\\senhas\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'c:\\Users\\victor.alunos\\Desktop\\Julia Pereira '
+   'Silva\\.venv\\Lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'C:\\Users\\victor.alunos\\Desktop\\Julia Pereira '
+   'Silva\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('senhas',
+   'C:\\Users\\victor.alunos\\Desktop\\Julia Pereira Silva\\senhas.py',
+   'PYSOURCE')],
+ 'python311.dll',
+ True,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)
