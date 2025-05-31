@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+    <!-- Loop para listar todos usuarios da plaataforma com HTML + PYTHON -->
+     {% for usuario_u in %}
+     <h1>Usuario: {{usuario_u.nome}}, {{usuario_u.seguidores}} seguidores, {{usuario_u.seguindo}}</h1>
+
+     {% endfor %}
+</body>
+</html>
